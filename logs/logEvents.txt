@@ -1,0 +1,43 @@
+
+20230416	14:52:33	61d85014-27b8-498d-965b-804a6687750b	GET	undefined	/
+20230416	14:52:33	3da32b28-5be2-4731-9796-c21c5c65b550	GET	undefined	/css/style.css
+20230416	14:53:12	50a08cbc-9890-4ad3-a3de-d009d74fe035	GET	undefined	/
+20230416	14:53:12	2158f8b3-26ac-4618-b7b3-908a77aa29bc	GET	undefined	/css/style.css
+20230416	14:54:20	75ca86b8-4a45-4f83-b2f1-15c20bda83ce	GET	undefined	/
+20230416	14:54:20	23921a4e-d1c7-4b27-b7ca-7feac69fff45	GET	undefined	/css/style.css
+20230416	15:00:49	1de9dca0-f611-4297-b65b-df38b3e686cd	OPTIONS	https://www.google.com	/
+20230416	15:00:49	3ee0832c-2c86-4e3b-b50f-79cecf686ccf	GET	https://www.google.com	/
+20230416	15:05:12	f8e2141c-929e-47b3-85f3-469cb496faf0	OPTIONS	https://www.google.com	/
+20230416	15:05:13	3c43ecf9-4cbd-4ead-88df-991bbc69e05a	GET	https://www.google.com	/
+20230416	15:15:13	e0046766-6553-4585-8445-a703e0e31806	OPTIONS	https://www.google.com	/
+20230416	15:15:13	1e0adf51-6c50-41a2-9c56-35a7c7beea30	GET	https://www.google.com	/
+20230417	10:50:08	62f6d738-f01d-4820-8ad2-19db4ca31df5	GET	undefined	/css/style.css
+20230418	09:57:21	916960ef-5969-4368-8321-7c750145cc0d	GET	undefined	/
+20230418	10:02:38	36063b11-b9f0-4437-96b5-7d333efe2bba	GET	undefined	/
+20230418	10:02:51	05fce67c-3d03-4f12-bd5b-289d8c09babf	GET	undefined	/
+20230418	10:02:52	7b147802-defa-4990-b556-a26c6ebeba8d	GET	undefined	/
+20230418	10:03:16	1e7691a0-af2e-49f7-ac05-3e02d23ca326	GET	undefined	/
+20230418	10:03:37	f4bb10a4-0bbb-4050-a785-84d0e237f8ea	GET	undefined	/
+20230418	10:04:29	1a0141cd-d162-42bc-9033-2d9670d6fffd	GET	undefined	/
+20230418	10:04:29	74796825-c777-4dab-98ee-f4044a078bbd	GET	undefined	/css/style.css
+20230418	10:11:18	6b9e8ee8-7caf-4a3a-a3b8-172a3b19fbd4	GET	undefined	/
+20230418	10:11:18	eb1093bc-c945-4717-b85b-c4f80636ca3c	Error: Not allowed by CORS
+20230418	10:11:48	6076e72d-170f-4baf-8e6f-e79fabac0bd6	GET	undefined	/
+20230418	10:11:48	24cf6e1c-9301-43de-a389-f3f157ec017f	Error: Not allowed by CORS
+20230418	10:11:50	05f795cb-9589-4ede-aff6-fe231ecff9df	GET	undefined	/
+20230418	10:11:50	da8be3b8-4be7-4398-bff2-e3745a6cfa48	Error: Not allowed by CORS
+20230418	10:11:55	eb59a87d-898d-478c-9d82-094d53510885	GET	undefined	/
+20230418	10:11:55	3a9884f1-2e1d-4416-adfb-837aaf3e5145	Error: Not allowed by CORS
+20230418	10:15:40	b08455b8-94b0-46ee-9c94-882b8bcf90ae	GET	undefined	/
+20230418	10:15:40	af01ac2f-1a14-4d3b-9423-4bce24000382	GET	undefined	/css/style.css
+20230418	10:18:53	89b95de9-d9c7-4a5c-9a8f-bad40935fac4	GET	undefined	/dave-jones
+20230418	10:24:00	f4d2a857-fe5b-4b87-96b6-a431ca902551	GET	undefined	/dave-jones
+20230418	10:24:00	0f197997-2848-4286-b46c-714aca31ce10	ReferenceError: sendFile is not defined
+20230418	10:24:24	c6d1f730-8961-4f9d-a4ea-5546a625e317	GET	undefined	/dave-jones
+20230418	13:01:53	c6abaf65-eb11-42ac-9ebc-bd8a10783f53	GET	undefined	/dave-jones
+20230418	13:02:00	89ad1081-a619-4e84-95df-bab8a28ac2e1	GET	undefined	/
+20230418	13:02:00	490fd29a-a3d4-4ceb-ad41-97388633a584	GET	undefined	/css/style.css
+20230418	13:02:11	06be281f-ee59-4ec2-b8d6-6c20aa404361	GET	undefined	/subdir
+20230418	13:02:25	b68d363e-5421-4915-928f-53e728ab92cb	GET	undefined	/subdir
+20230418	13:03:06	3d1ea164-76e9-4826-b3f9-668e7f5faa40	GET	undefined	/subdir/test
+20230418	13:13:01	c28f8c7c-7ffd-4e61-9c86-0f04c21dc5d2	GET	undefined	/subdir/hello
